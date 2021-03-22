@@ -8,7 +8,7 @@ prod-milk-peppermints,,,, 9.50 , 14.75 ,ABSOLUTE, 10.00 ,"Missing selling price,
 prod-chocolate-walnut-fudge,, 26.87 ,, 19.55 , 27.00 ,PERCENTAGE, 0.30 ,"Missing selling price, should not contain surcharges"
 prod-milk-chocolate-drops,,,, 1.49 , 4.00 ,ABSOLUTE, 10.00 ,"Missing selling price, should not contain surcharges"
 prod-dark-chocolate-parent,,,,16.69, 18.50 ,PERCENTAGE, 0.30 ,"Missing selling price, should not contain surcharges"
-prod-dark-buttercream,prod-dark-chocolate-parent,,,,,INVALID_TYPE, 10.00 ,Surcharge type not valid
+prod-dark-buttercream,prod-dark-chocolate-parent,,,,,ABSOLUTE, 10.00 ,Surcharge type not valid
 prod-dark-almond-nougat,prod-dark-chocolate-parent, 25.00 , 25.00 ,,,,,Missing surcharges
 prod-dark-marzipan,prod-dark-chocolate-parent,,,,,ABSOLUTE, (20.00),Negative surcharge
 prod-dark-blueberry-truffle,prod-dark-chocolate-parent,,,,,PERCENTAGE, 0.30 ,Missing parent selling price
