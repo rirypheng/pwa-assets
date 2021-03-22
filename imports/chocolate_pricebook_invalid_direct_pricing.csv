@@ -2,12 +2,12 @@
 prod-dark-chocolate-collection,,, 200.00 ,,,ABSOLUTE, 10.00 ,Should not contain prices
 prod-milk-chocolate-collection,,, 200.00 ,,,PERCENTAGE, 0.30 ,Should not contain prices
 prod-chocolate-kit,, 150.00 ,, 85.00 , 160.00 ,,,Missing selling price
-prod-assorted-candy-bars,,, 15.00 , 8.75 , 15.00 ,ABSOLUTE, 10.00 ,Should not contain surcharges
+prod-assorted-candy-bars,,,, 8.75 , 15.00 ,ABSOLUTE, 10.00 ,"Missing selling price, hould not contain surcharges"
 prod-milk-chocolate-bunny,, 6.50 , 6.50 ,, 7.00 ,PERCENTAGE, 0.30 ,Should not contain surcharges
 prod-milk-peppermints,, 9.95 , 9.95 , 5.50 ,,ABSOLUTE, 10.00 ,Should not contain surcharges
 prod-chocolate-walnut-fudge,,, 24.99 , 15.89 , 24.99 ,PERCENTAGE, 0.30 ,Should not contain surcharges
 prod-milk-chocolate-drops,, 6.50 ,, 3.00 , 6.50 ,ABSOLUTE, 10.00 ,"Missing selling price, should not contain surcharges"
-prod-dark-chocolate-parent,, 20.25 , 20.25 ,, 20.25 ,PERCENTAGE, 0.30 ,Should not contain surcharges
+prod-dark-chocolate-parent,, 20.25 ,,, 20.25 ,PERCENTAGE, 0.30 ,"Missing selling price, should not contain surcharges"
 prod-dark-buttercream,prod-dark-chocolate-parent, 35.50 , 35.50 , 18.00 ,,,,
 prod-dark-almond-nougat,prod-dark-chocolate-parent, 19.75 , 19.75 ,, 20.00 ,,,
 prod-dark-marzipan,prod-dark-chocolate-parent, 25.00 ,, 16.54 , 25.00 ,ABSOLUTE, (20.00),"Missing selling price, should not contain surcharges"
