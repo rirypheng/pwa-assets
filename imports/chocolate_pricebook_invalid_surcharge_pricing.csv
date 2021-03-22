@@ -1,0 +1,14 @@
+﻿PRODUCT_ID,PARENT_ID, ORIGINAL_PRICE , SELLING_PRICE , COGS , MSRP ,SURCHARGE_TYPE, SURCHARGE_VALUE , DEV_NOTE 
+prod-dark-chocolate-collection,,, 200.00 ,,,ABSOLUTE, 10.00 ,Should not contain prices
+prod-milk-chocolate-collection,,, 200.00 ,,,PERCENTAGE, 0.30 ,Should not contain prices
+prod-chocolate-kit,,,, 75.00 , 125.00 ,,,Missing selling price
+prod-assorted-candy-bars,, 9.50 ,, 6.88 , 9.50 ,ABSOLUTE, 10.00 ,"Missing selling price, should not contain surcharges"
+prod-milk-chocolate-bunny,,, 8.00 , 5.00 , 8.50 ,PERCENTAGE, 0.30 ,Should not contain surcharges
+prod-milk-peppermints,,,, 9.50 , 14.75 ,ABSOLUTE, 10.00 ,"Missing selling price, should not contain surcharges"
+prod-chocolate-walnut-fudge,, 26.87 ,, 19.55 , 27.00 ,PERCENTAGE, 0.30 ,"Missing selling price, should not contain surcharges"
+prod-milk-chocolate-drops,,,, 1.49 , 4.00 ,ABSOLUTE, 10.00 ,"Missing selling price, should not contain surcharges"
+prod-dark-chocolate-parent,,,,16.69, 18.50 ,PERCENTAGE, 0.30 ,"Missing selling price, should not contain surcharges"
+prod-dark-buttercream,prod-dark-chocolate-parent,,,,,,,Missing surcharges
+prod-dark-almond-nougat,prod-dark-chocolate-parent, 25.00 , 25.00 ,,,,,Missing surcharges
+prod-dark-marzipan,prod-dark-chocolate-parent,,,,,ABSOLUTE, (20.00),Negative surcharge
+prod-dark-blueberry-truffle,prod-dark-chocolate-parent,,,,,PERCENTAGE, 0.30 ,Missing parent selling price
