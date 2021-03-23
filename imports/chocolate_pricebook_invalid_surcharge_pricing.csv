@@ -2,7 +2,7 @@
 prod-dark-chocolate-collection,,, 200.00 ,,,ABSOLUTE, 10.00 ,Should not contain prices
 prod-milk-chocolate-collection,,, 200.00 ,,,PERCENTAGE, 0.30 ,Should not contain prices
 prod-chocolate-kit,,,, 75.00 , 125.00 ,,,Missing selling price
-prod-assorted-candy-bars,, 9.50 ,, 6.88 , 9.50 ,ABSOLUTE, 10.00 ,"Missing selling price, should not contain surcharges"
+prod-assorted-candy-bars,, 9.50 ,, 6.88 , 9.50 ,ABSOLUTE, 10.00 ,Missing selling price
 prod-milk-chocolate-bunny,,, 8.00 , 5.00 , 8.50 ,PERCENTAGE, 0.30 ,Should not contain surcharges
 prod-milk-peppermints,,,, 9.50 , 14.75 ,ABSOLUTE, 10.00 ,"Missing selling price, should not contain surcharges"
 prod-chocolate-walnut-fudge,, 26.87 ,, 19.55 , 27.00 ,PERCENTAGE, 0.30 ,"Missing selling price, should not contain surcharges"
