@@ -1,14 +1,12 @@
 ﻿PRODUCT_ID, ORIGINAL_PRICE , SELLING_PRICE , COGS , MSRP 
-prod-dark-chocolate-collection,,,,
-prod-milk-chocolate-collection,,,,
-prod-chocolate-kit, 150.00 , 150.00 , 85.00 , 160.00 
-prod-assorted-candy-bars, 15.00 , 15.00 , 8.75 , 15.00 
-prod-milk-chocolate-bunny, 6.50 , 6.50 , 4.00 , 7.00 
-prod-milk-peppermints, 9.95 , 9.95 , 5.50 , 10.00 
-prod-chocolate-walnut-fudge, 24.99 , 24.99 , 15.89 , 24.99 
-prod-milk-chocolate-drops, 6.50 , 6.50 , 3.00 , 6.50 
-prod-dark-chocolate-parent, 20.25 , 20.25 , 18.67 , 20.25 
-prod-dark-buttercream, 35.50 , 35.50 , 18.00 , 40.00 
-prod-dark-almond-nougat, 19.75 , 19.75 , 12.45 , 20.00 
-prod-dark-marzipan, 25.00 , 25.00 , 16.54 , 25.00 
-prod-dark-blueberry-truffle, 27.50 , 27.50 , 15.75 , 29.00 
+prod-chocolate-kit,150,150,85,160
+prod-assorted-candy-bars,15,15,8.75,15
+prod-milk-chocolate-bunny,6.5,6.5,4,7
+prod-milk-peppermints,9.95,9.95,5.5,10
+prod-chocolate-walnut-fudge,24.99,24.99,15.89,24.99
+prod-milk-chocolate-drops,6.5,6.5,3,6.5
+prod-dark-chocolate-parent,20.25,20.25,18.67,20.25
+prod-dark-buttercream,35.5,35.5,18,40
+prod-dark-almond-nougat,19.75,19.75,12.45,20
+prod-dark-marzipan,25,25,16.54,25
+prod-dark-blueberry-truffle,27.5,27.5,15.75,29
