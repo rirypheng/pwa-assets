@@ -1,14 +1,12 @@
 ﻿PRODUCT_ID, ORIGINAL_PRICE , SELLING_PRICE , COGS , MSRP ,SURCHARGE_TYPE, SURCHARGE_VALUE 
-prod-dark-chocolate-collection,,,,,,
-prod-milk-chocolate-collection,,,,,,
-prod-chocolate-kit, 120.00 , 120.00 , 75.00 , 120.00 ,,
-prod-assorted-candy-bars, 10.00 , 10.00 , 7.00 , 10.00 ,,
-prod-milk-chocolate-bunny, 9.00 , 9.00 , 5.00 , 9.00 ,,
-prod-milk-peppermints, 12.00 , 12.00 , 10.00 , 12.00 ,,
-prod-chocolate-walnut-fudge, 27.00 , 27.00 , 20.00 , 27.00 ,,
-prod-milk-chocolate-drops, 5.00 , 5.00 , 2.00 , 5.00 ,,
-prod-dark-chocolate-parent, 19.00 , 19.00 , 17.00 , 19.00 ,,
-prod-dark-buttercream,,,,,ABSOLUTE, 20.00 
-prod-dark-almond-nougat,,,,,PERCENTAGE, 0.35 
-prod-dark-marzipan,,,,,ABSOLUTE, 15.00 
-prod-dark-blueberry-truffle,,,,,PERCENTAGE, 0.15 
+prod-chocolate-kit,120,120,75,120,,
+prod-assorted-candy-bars,10,10,7,10,,
+prod-milk-chocolate-bunny,9,9,5,9,,
+prod-milk-peppermints,12,12,10,12,,
+prod-chocolate-walnut-fudge,27,27,20,27,,
+prod-milk-chocolate-drops,5,5,2,5,,
+prod-dark-chocolate-parent,19,19,17,19,,
+prod-dark-buttercream,,,,,ABSOLUTE,20
+prod-dark-almond-nougat,,,,,PERCENTAGE,0.35
+prod-dark-marzipan,,,,,ABSOLUTE,15
+prod-dark-blueberry-truffle,,,,,PERCENTAGE,0.15
