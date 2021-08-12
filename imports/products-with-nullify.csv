@@ -1,5 +1,4 @@
 ﻿PRODUCT_TYPE,MAX_QTY_IN_ORDER,SKU,PRODUCT_ID,PARENT_ID,COLLECTION_ID,PRODUCT_NAME
-COLLECTION,nullify,sku-dark-chocolate-collection,prod-dark-chocolate-collection,,,Dark Chocolate
 COLLECTION,1,sku-milk-chocolate-collection,prod-milk-chocolate-collection,,,Milk Chocolate
 KIT,1,sku-chocolate-kit,prod-chocolate-kit,,,Gift of Elegance
 Almond Bud,1, Almond Royal, Blueberry Truffle, Butterscotch Chews, Butterscotch Square, Caramel
@@ -13,3 +12,4 @@ VARIANT,1,sku-dark-buttercream,prod-dark-buttercream,prod-dark-chocolate-parent,
 VARIANT,1,sku-dark-almond-nougat,prod-dark-almond-nougat,prod-dark-chocolate-parent,,Dark Almond Nougat
 VARIANT,1,sku-dark-marzipan,prod-dark-marzipan,prod-dark-chocolate-parent,,Dark Marzipan
 VARIANT,1,sku-dark-blueberry-truffle,prod-dark-blueberry-truffle,prod-dark-chocolate-parent,,Dark Blueberry Truffle
+COLLECTION,nullify,sku-dark-chocolate-collection,prod-dark-chocolate-collection,,,Dark Chocolate
