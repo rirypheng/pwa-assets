@@ -1,7 +1,6 @@
 ﻿PRODUCT_TYPE,MAX_QTY_IN_ORDER,SKU,PRODUCT_ID,PARENT_ID,COLLECTION_ID,PRODUCT_NAME
 COLLECTION,1,sku-milk-chocolate-collection,prod-milk-chocolate-collection,,,Milk Chocolate
 KIT,1,sku-chocolate-kit,prod-chocolate-kit,,,Gift of Elegance
-Almond Bud,1, Almond Royal, Blueberry Truffle, Butterscotch Chews, Butterscotch Square, Caramel
 UNKNOWN,1,sku-assorted-candy-bars,prod-assorted-candy-bars,,,Assorted Candy Bars
 REGULAR,1,sku-milk-chocolate-bunny,prod-milk-chocolate-bunny,,prod-milk-chocolate-collection,Milk Chocolate Bunny
 REGULAR,1,sku-milk-peppermints,prod-milk-peppermints,,prod-milk-chocolate-collection,Milk Peppermints
