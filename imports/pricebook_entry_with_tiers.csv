@@ -1,0 +1,3 @@
+﻿PRODUCT_ID, ORIGINAL_PRICE , SELLING_PRICE , COGS , MSRP ,inheritParentBulkPricing,tiers
+prod-milk-chocolate-bunny,666,nullify,4,7,nullify,nullify
+prod-dark-buttercream,35.5,35.5,18,40,FALSE,30_ABSOLUTE_5#40_PERCENTAGE_5
