@@ -5,7 +5,7 @@ UNKNOWN,1,1,sku-assorted-candy-bars,prod-assorted-candy-bars,,,Assorted Candy Ba
 REGULAR,1,1,sku-milk-chocolate-bunny,prod-milk-chocolate-bunny,,prod-milk-chocolate-collection,Milk Chocolate Bunny
 REGULAR,1,nullify,sku-milk-peppermints,prod-milk-peppermints,,prod-milk-chocolate-collection,Milk Peppermints
 REGULAR,1,1,sku-chocolate-walnut-fudge,prod-chocolate-walnut-fudge,,,Chocolate Walnut Fudge
-REGULAR,1,,sku-milk-chocolate-drops,prod-milk-chocolate-drops,,prod-milk-chocolate-collection,Milk Chocolate Drops
+REGULAR,1,1,sku-milk-chocolate-drops,prod-milk-chocolate-drops,,prod-milk-chocolate-collection,Milk Chocolate Drops
 PARENT,1,nullify,sku-dark-chocolate-parent,prod-dark-chocolate-parent,,prod-dark-chocolate-collection,Dark Chocolate
 VARIANT,1,nullify,sku-dark-buttercream,prod-dark-buttercream,prod-dark-chocolate-parent,,Dark Chocolate Buttercream
 VARIANT,1,1,sku-dark-almond-nougat,prod-dark-almond-nougat,prod-dark-chocolate-parent,,Dark Almond Nougat
